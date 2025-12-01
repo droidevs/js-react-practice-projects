@@ -22,6 +22,10 @@ Here is a list of the components included in this project:
 - **Random Color Generator**: A fun component that generates a random color in either HEX or RGB format. The background color of the component updates to the newly generated color.
 - **Star Rating**: A classic star rating component that allows users to select a rating from a predefined number of stars.
 - **Tree View**: A hierarchical navigation component that displays a nested list of items. Users can expand and collapse parent nodes to view their children.
+- **QR Code Generator**: A component to generate QR codes from user-provided text or URLs.
+- **Light Dark Mode**: A theme-switching component that toggles between light and dark modes for the application.
+- **Scroll Indicator**: A UI element that shows the user's scroll progress on a page.
+- **Custom Tabs**: A tabbed navigation component to display different sections of content.
 
 ## Getting Started
 
