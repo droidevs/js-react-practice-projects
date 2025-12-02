@@ -11,6 +11,7 @@ import QRCodeGenerator from './components/qr-code-generator'
 import LightDarkMode from './components/light-dark-mode'
 import ScrollIndicator from './components/scroll-indicator'
 import TabTest from './components/custom-tabs/tab-test'
+import ModalTest from './components/custom-model-popup/modal-test'
 
 function App () {
   return (
@@ -34,7 +35,9 @@ function App () {
 
       {/* <ScrollIndicator url={'https://dummyjson.com/products'}/> */}
 
-      <TabTest/>
+      {/* <TabTest/> */}
+
+      <ModalTest/>
 
     </div>
   )
