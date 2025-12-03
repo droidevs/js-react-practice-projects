@@ -12,6 +12,8 @@ import LightDarkMode from './components/light-dark-mode'
 import ScrollIndicator from './components/scroll-indicator'
 import TabTest from './components/custom-tabs/tab-test'
 import ModalTest from './components/custom-model-popup/modal-test'
+import GithubProfileFinder from './components/github-profile-finder'
+import SearchAutcomplete from './components/search-autocomplete-with-api'
 
 function App () {
   return (
@@ -37,7 +39,11 @@ function App () {
 
       {/* <TabTest/> */}
 
-      <ModalTest/>
+      {/* <ModalTest/> */}
+
+      {/* <GithubProfileFinder/> */}
+
+      <SearchAutcomplete/>
 
     </div>
   )
