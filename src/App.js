@@ -50,9 +50,9 @@ function App () {
 
       {/* <TicTacToe/> */}
 
-      <FeatureFlagsGlobalState>
+      {/* <FeatureFlagsGlobalState>
         <FeatureFlags/>
-      </FeatureFlagsGlobalState>
+      </FeatureFlagsGlobalState> */}
 
     </div>
   )
